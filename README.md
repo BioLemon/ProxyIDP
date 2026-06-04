@@ -1,6 +1,13 @@
 # Proxy IDPs generation and application
 Code repository for research article entitled "Phenotypic reconstruction across biological scales expands imaging-based disease modeling"
 # Research Framework
+The figure below illustrates the overall research framework of our study.
+
+**(a)** Multimodal data, including blood biochemistry, complete blood count measurements, genomic data, metabolomics profiles, imaging-derived phenotypes (IDPs), and disease records, were obtained from the UK Biobank. After quality control procedures, the cohort was divided into predefined subsets for subsequent analyses.
+
+**(b)** IDP prediction models were developed using multimodal data, followed by model interpretation and evaluation. The trained models were then applied to individuals without imaging data to generate proxy IDPs.
+
+**(c)** The generated proxy IDPs were utilized in downstream analyses, including disease prediction, survival analysis, and risk stratification, demonstrating their value for disease-related research in large-scale populations where imaging data are unavailable.
 
 <!-- Insert framework figure here -->
 
