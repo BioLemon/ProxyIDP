@@ -55,7 +55,7 @@ Conducts genome-wide association studies (GWAS), including:
 
 * Genotype format conversion using **PLINK2**
 * Covariate preprocessing
-* GWAS analysis using **fastGWA-GLMM**, a GLMM-based GWAS tool developed by Jiang *et al.*
+* GWAS analysis using **fastGWA-GLMM**, a GLMM-based GWAS tool developed by Jiang *et al.*(Jiang, L., et al. A generalized linear mixed model association tool for biobank-scale data. Nature Genetics 2021;53(11):1616-1621)
 
 ### 04_build_PGS_models
 
