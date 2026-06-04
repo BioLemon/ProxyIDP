@@ -4,7 +4,7 @@ Code repository for research article entitled "Phenotypic reconstruction across 
 
 <!-- Insert framework figure here -->
 
-![Research Framework](./figures/framework.png)
+![Research Framework](./ResearchFramework.png)
 
 ---
 
