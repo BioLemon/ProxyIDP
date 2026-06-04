@@ -17,10 +17,16 @@ The figure below illustrates the overall research framework of our study.
 
 # Repository Structure
 
-This repository contains two major components:
+This repository contains two major code directories:
 
-1. **Multimodal data extraction and preprocessing**
-2. **Experimental analyses and model development presented in the manuscript**
+1. **ProxyIDP_01_DatasetsPrepare**: Multimodal data extraction and preprocessing codes.
+2. **ProxyIDP_02_Experiments**: Experimental analyses and model development codes.
+
+Additional files:
+
+* **ResearchFramework.png**: Illustration of the overall research framework of the study.
+* **environment.yml**: Conda environment configuration file required to reproduce the computational environment used for the analyses.
+
 ---
 ## ProxyIDP_01_DatasetsPrepare
 
